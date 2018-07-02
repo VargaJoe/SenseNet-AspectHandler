@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentMetaData>
+    <ContentType>GenericODataApplication</ContentType>
+    <ContentName>GetAspects</ContentName>
+    <Fields>
+        <ClassName><![CDATA[SenseNet.OData.AspectActions]]></ClassName>
+        <MethodName><![CDATA[GetAspects]]></MethodName>
+        <Parameters><![CDATA[]]></Parameters>
+        <DisplayName><![CDATA[GetAspects]]></DisplayName>
+        <Description><![CDATA[<p>Returns the name of aspects attached to the content.</p>]]></Description>
+        <Scenario><![CDATA[]]></Scenario>
+        <ActionTypeName><![CDATA[GenericODataOperation]]></ActionTypeName>
+        <IsModal>false</IsModal>
+        <Disabled>false</Disabled>
+        <Clear>false</Clear>
+        <Icon><![CDATA[Application]]></Icon>
+        <StyleHint><![CDATA[]]></StyleHint>
+        <RequiredPermissions></RequiredPermissions>
+        <DeepPermissionCheck>false</DeepPermissionCheck>
+        <IncludeBackUrl>0</IncludeBackUrl>
+        <CacheControl>Nondefined</CacheControl>
+        <MaxAge><![CDATA[]]></MaxAge>
+        <CustomUrlParameters><![CDATA[]]></CustomUrlParameters>
+        <Hidden>false</Hidden>
+        <Index>0</Index>
+        <EnableLifespan>false</EnableLifespan>
+        <ValidFrom>0001-01-01T00:00:00</ValidFrom>
+        <ValidTill>0001-01-01T00:00:00</ValidTill>
+        <CreatedBy>
+            <Path>/Root/IMS/BuiltIn/Portal/Admin</Path>
+        </CreatedBy>
+        <CreationDate>2015-02-05T10:48:29.59</CreationDate>
+        <ModifiedBy>
+            <Path>/Root/IMS/BuiltIn/Portal/Admin</Path>
+        </ModifiedBy>
+        <ModificationDate>2015-02-05T14:03:44.04</ModificationDate>
+        <CheckedOutTo />
+        <TrashDisabled>false</TrashDisabled>
+        <BrowseApplication />
+        <IsTaggable>false</IsTaggable>
+        <IsRateable>false</IsRateable>
+        <RateAvg>0.0000</RateAvg>
+        <RateCount>0</RateCount>
+        <Workspace />
+    </Fields>
+    <Permissions>
+        <Clear />
+    </Permissions>
+</ContentMetaData>

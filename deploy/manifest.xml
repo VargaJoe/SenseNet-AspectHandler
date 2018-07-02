@@ -1,0 +1,16 @@
+﻿<!-- <Package type='Application' level='Tool'> -->
+<Package type='Tool'>
+	<Id>SetupAspects</Id>
+	<Description>Action to handle aspects from UI with sn webpages component</Description>
+	<Version>1.0</Version>
+	<ReleaseDate>2018-07-02</ReleaseDate>
+	<Steps>
+		<Phase>
+			<Copy targetDirectory='.' source='bin' />
+		</Phase>
+		<Phase>
+			<StartRepository startLuceneManager="false" startWorkflowEngine="false" />
+			<Import target="/Root" resetSecurity="false" LogLevel="Verbose" source="import"  />
+		</Phase>
+	</Steps>
+</Package>
